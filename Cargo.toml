@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "test1",
+    "rayon1",
+    "proc1",
+    "nethttp",
+    "rustlang",
+    "filelock",
+]
