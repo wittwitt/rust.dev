@@ -1,4 +1,7 @@
 [workspace]
+
+resolver="2"
+
 members = [
     "test1",
     "rayon1",
@@ -6,4 +9,5 @@ members = [
     "nethttp",
     "rustlang",
     "filelock",
+    "config1",
 ]
